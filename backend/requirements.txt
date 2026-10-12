@@ -1,0 +1,5 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+ifcopenshell==0.7.0.240919
+python-multipart==0.0.12
+pydantic==2.9.2
